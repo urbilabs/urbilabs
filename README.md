@@ -9,7 +9,7 @@ Building, breaking, and benchmarking systems. By day, I build AI-native apps; by
 ### 🧪 What I'm poking at
 * **Distributed State:** Building and breaking load balancers, proxies, and consensus logic.
 * **Performance:** Moving from "it works" to "it's efficient"—optimizing Node.js event loops and Python execution.
-* **Real-time Systems:** Exploring high-concurrency event streams and low-latency data. This includes everything from betting bots and strategy analyzers to undetectable AI-based FPS aim assist integrated with hardware.
+* **Real-time Systems:** Exploring high-concurrency event streams and low-latency data. This includes everything from betting bots and strategy analyzers to AI-based FPS aim assist integrated with hardware.
 
 ### 🛠 The Stack
 * **Primary:** TypeScript (Node.js/Next.js), Python (AI/Automation)
